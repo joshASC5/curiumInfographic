@@ -24,6 +24,12 @@ section{
     border: 5px dotted var(--border-color);
     margin-bottom: 2.5%;
 }
+#originInfo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
 h2{
     text-align:center;
 }
